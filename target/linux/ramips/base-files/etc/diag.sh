@@ -81,6 +81,9 @@ get_status_led() {
 	hlk-rm04)
 		status_led="hlk-rm04:red:power"
 		;;
+	hg255d)
+		status_led="hg255d:power"
+		;;
 	ht-tm02)
 		status_led="ht-tm02:blue:wlan"
 		;;
