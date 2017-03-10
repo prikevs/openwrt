@@ -39,6 +39,9 @@ get_status_led() {
 	dcs-930l-b1|\
 	ex2700|\
 	hlk-rm04|\
+	hg255d)
+        	status_led="$board:power"
+        	;;
 	jhr-n825r|\
 	mpr-a1|\
 	mpr-a2|\

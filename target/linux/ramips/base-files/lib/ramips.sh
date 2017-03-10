@@ -202,7 +202,7 @@ ramips_board_detect() {
 	*"HC5861")
 		name="hc5861"
 		;;
-	*"HG255D")
+	*"HuaWei HG255D")
 		name="hg255d"
 		;;
 	*"HLK-RM04")
